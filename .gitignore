@@ -1,0 +1,10 @@
+
+*.csv
+*.json
+*.tsv
+*.tfevents
+.ipynb_checkpoints/
+tone/
+work/
+currency/
+*.joblib
