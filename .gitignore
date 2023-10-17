@@ -8,3 +8,4 @@ tone/
 work/
 currency/
 *.joblib
+*.tmp
