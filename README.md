@@ -1,7 +1,5 @@
 # Yandex Practicum DS
- Проекты, сделанные в процессе прохождения курса "Специалист по Data Science" от Яндекс.Практикум
- ---
- The projects that I've made for the Yandex.Practicum course "Data Science Specialist"
+ Проекты, сделанные в процессе прохождения курса "Специалист по Data Science" от Яндекс.Практикум / The projects that I've made for the Yandex.Practicum course "Data Science Specialist"
 
 ## Список проектов
 
